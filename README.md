@@ -1,10 +1,4 @@
 # UiStateSmithy
 
-This project was generated using the `create_unity_package`
-python CLI. Please update this README to remove this
-boilerplate text. Also, you need to add more content to
-the `Documentation~/<package-name>.md`.
-
-Good luck on your development. Please file any issues you
-find on the
-[GitHub Page](https://github.com/ShiJbey/create_unity_package).
+[Install from Package Manager]
+Package Manager > Add package from git URL... and paste this URL: https://github.com/GameSmithy/UiStateSmithy.git#0.0.1
