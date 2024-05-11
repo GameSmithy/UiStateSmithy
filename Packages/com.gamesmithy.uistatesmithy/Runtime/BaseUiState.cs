@@ -1,4 +1,7 @@
-namespace UiStateSmithy; 
-public class BaseUiState {
-    private HashSet<BaseUiCanvas> canvases = new HashSet<BaseUiCanvas>();
+using System;
+
+namespace UiStateSmithy {
+    public class BaseUiState {
+        private BaseUiCanvas[] canvases = Array.Empty<BaseUiCanvas>();
+    }
 }

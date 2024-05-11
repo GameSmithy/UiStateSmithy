@@ -1,5 +1,6 @@
-namespace UiStateSmithy;
+namespace UiStateSmithy {
 
-public class BaseUiCanvas {
-    
+    public class BaseUiCanvas {
+
+    }
 }
