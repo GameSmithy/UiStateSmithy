@@ -1,0 +1,16 @@
+{
+    "name": "gamesmithy.uistatesmithy.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d6ea8bcda6c604691953f73def44d73d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
