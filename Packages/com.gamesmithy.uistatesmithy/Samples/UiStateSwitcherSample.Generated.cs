@@ -12,6 +12,11 @@ namespace UiStateSmithy.Samples {
             var metaUiState = new MetaUiState(this);
             var shopUiState = new ShopUiState(this);
             var loadingUiState = new LoadingUiState(this);
+            
+            states.Add(UiStateType.Init.ToString(),initUiState);
+            states.Add(UiStateType.Meta.ToString(),metaUiState);
+            states.Add(UiStateType.Shop.ToString(),shopUiState);
+            states.Add(UiStateType.Loading.ToString(),loadingUiState);
         }
     }
 }
