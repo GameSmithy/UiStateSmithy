@@ -1,0 +1,17 @@
+{
+    "name": "com.gamesmithy.uistatesmithy",
+    "version": "1.0.0",
+    "displayName": "UiStateSmithy",
+    "description": "ui mvc state system",
+    "unity": "2022.1",
+    "keywords": [
+        "ui",
+        "state",
+        "mvc"
+    ],
+    "author": {
+        "name": "Dmitry Turovskiy",
+        "email": "3dorange@gmail.com",
+        "url": ""
+    }
+}
