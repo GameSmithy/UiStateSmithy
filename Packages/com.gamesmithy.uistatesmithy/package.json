@@ -1,6 +1,6 @@
 {
     "name": "com.gamesmithy.uistatesmithy",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "displayName": "UiStateSmithy",
     "description": "ui mvc state system",
     "unity": "2022.1",
